@@ -1,6 +1,6 @@
-title: "Kimang Khun\'s personal website"
+title: "Kimang Khun's personal website"
 author: "Kimang Khun"
-description: "Kimang Khun\'s personal website"
+description: "Kimang Khun's personal website"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -20,8 +20,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:khun.kimang@gmail.com"}
-  - {title: Github, icon: github, url: "https://github.com/Kimang18/"}
+  - {title: Mail, icon: envelope, url: "mailto:kimang.khun@polytechnique.org"}
+  - {title: Github, icon: github, url: "https://github.com/Kimang18"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
