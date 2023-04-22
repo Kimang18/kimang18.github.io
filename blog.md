@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "CV - short version"
+title: "Blog"
 ---
 
 # Academic background:
