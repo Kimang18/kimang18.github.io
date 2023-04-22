@@ -7,7 +7,7 @@ layout: page
 
 ## Journal Article
 
-1. Gast, N., Gaujal, B., & Khun, K. Learning Algorithms for Markovian Bandits:Is Posterior Sampling more Scalable than Optimism?. Transactions on Machine Learning Research. [link to pdf](https://openreview.net/pdf?id=sh3rf9jowk)
+1. Gast, N., Gaujal, B., & Khun, K. Learning Algorithms for Markovian Bandits:Is Posterior Sampling more Scalable than Optimism?. Transactions on Machine Learning Research. [link to pdf](https://openreview.net/pdf?id=Sh3RF9JowK)
 
 ## Preprint
 
