@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "Home"}
   - {file: "research.md", title: "Research"}
   - {file: "teaching.md", title: "Teaching & Talks"}
-  - {file: "405.md", title: "Blog"}
+    #- {file: "405.md", title: "Blog"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:kimang.khun@polytechnique.org"}
