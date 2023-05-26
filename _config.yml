@@ -22,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
     #- {file: "405.md", title: "Blog"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:kimang.khun@polytechnique.org"}
+  - {title: Mail, icon: envelope, url: "mailto:khun.kimang@misti.gov.kh"}
   - {title: Github, icon: github, url: "https://github.com/Kimang18"}
 
 comments:
