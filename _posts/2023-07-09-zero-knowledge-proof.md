@@ -10,4 +10,6 @@ carousels:
     - image: /assets/zkp/IMG_0826.JPG
 ---
 
-{% include carousel.html height="100" unit="%" duration="7" number="1" %}
+This is my article contributed to Newsletter N4 of Association des Polytechniciens Khmers.
+
+{% include carousel.html height="100" unit="%" duration="10" %}
