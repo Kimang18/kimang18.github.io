@@ -11,5 +11,6 @@ carousels:
 ---
 
 This is my article contributed to Newsletter N4 of Association des Polytechniciens Khmers.
+Check out the whole newsletter here.
 
-{% include carousel.html height="100" unit="%" duration="10" %}
+{% include carousel.html height="90" unit="%" duration="10" %}
