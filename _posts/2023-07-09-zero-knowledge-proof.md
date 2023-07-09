@@ -11,6 +11,8 @@ carousels:
 ---
 
 This is my article contributed to Newsletter N4 of Association des Polytechniciens Khmers.
-Check out the whole newsletter here.
+Check out the whole newsletter [here](http://bit.ly/axknewsletter_no4).
+
+__Remark__: all the articles are written in Khmer.
 
 {% include carousel.html height="140" unit="%" duration="10" %}
