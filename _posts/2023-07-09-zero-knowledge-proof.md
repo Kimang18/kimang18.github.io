@@ -10,7 +10,7 @@ carousels:
     - image: /assets/zkp/IMG_0826.JPG
 ---
 
-This is my article contributed to Newsletter № of Association des Polytechniciens Khmers.
+This is my article contributed to Newsletter №4 of Association des Polytechniciens Khmers.
 Check out the whole newsletter [here](http://bit.ly/axknewsletter_no4).
 
 __Remark__: all the articles are written in Khmer.
