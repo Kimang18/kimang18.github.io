@@ -9,13 +9,13 @@ title: "Home"
 
 I am interested in optimization and control of stochastic dynamic system (Reinforcement Learning, Markov Decision Process...).
 
-Currently, I am an officer at the __Ministry of Industry, Science, Technology, and Innovation of Cambodia__.
+Currently, I am an official at the __Ministry of Industry, Science, Technology, and Innovation of Cambodia__.
 I was a Ph.D. candidate supervised by [Nicolas Gast](https://polaris.imag.fr/nicolas.gast/) and [Bruno Gaujal](https://team.inria.fr/polaris/members/bruno-gaujal/) at __University of Grenoble Alpes of France__.
 The manuscript of my Ph.D. can be found [here](https://kimang18.github.io/assets/Kimang_thesis.pdf)
 
 # Education:
 
-10/2019 - 03/2023 : _PhD in Mathematics and Computer Science_, __University of Grenoble Alpes__, France
+10/2019 - 03/2023 : _Ph.D. in Mathematics and Computer Science_, __University of Grenoble Alpes__, France
 
 10/2018 - 09/2019 : _Master’s Degree in Artificial Intelligence and Advanced Visual Computing_, __Ecole Polytechnique__, France
 
