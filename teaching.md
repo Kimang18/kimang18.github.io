@@ -3,6 +3,13 @@ layout: page
 title: "Teaching & Talks"
 ---
 
+# Teaching
+
+- __2023-2024__: Artificial Intelligence, Institute of Technology of Cambodia
+    - Lecture 1: [Introduction to Artificial Intelligence](https://drive.google.com/file/d/16YVh-0c-kU8BQ-CLYLlzPzpn0ybc3wLR/view?usp=share_link)
+
+
+
 # Talks
 
 - __August 2023__: Institute of Digital Research and Innovation Monthly Seminar (Phnom Penh), [Gentle Introduction to Multi-Armed Bandit Problem](https://kimang18.github.io/assets/talk/talk-gentle_intro_MAB.pdf)
