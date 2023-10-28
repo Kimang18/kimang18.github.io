@@ -5,8 +5,9 @@ title: "Teaching & Talks"
 
 # Teaching
 
-- __2023-2024__: Artificial Intelligence, Institute of Technology of Cambodia
+- __2023-2024__: [Artificial Intelligence](https://moodle.itc.edu.kh/course/view.php?id=1282), Institute of Technology of Cambodia
     - Lecture 1: [Introduction to Artificial Intelligence](https://drive.google.com/file/d/16YVh-0c-kU8BQ-CLYLlzPzpn0ybc3wLR/view?usp=share_link)
+    - Lecture 2: [Solving Problems by Searching](https://drive.google.com/file/d/1sX1v4mZjFQQNxD8GvFGrz19Kghrcoi6s/view?usp=share_link)
 
 
 
