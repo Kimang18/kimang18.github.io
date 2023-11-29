@@ -10,6 +10,7 @@ title: "Teaching & Talks"
     - Lecture 2: [Solving Problems by Searching](https://drive.google.com/file/d/1sX1v4mZjFQQNxD8GvFGrz19Kghrcoi6s/view?usp=share_link)
     - Lecture 3: [Adversarial Search](https://drive.google.com/drive/folders/1ZsB1RPHw3mRUl1obmYdXbRYuWLPtxs7L?usp=share_link)
     - Lecture 4: [Local Search](https://drive.google.com/file/d/1AG0jR88Bk_X_WheewlhJzaQzmukqzonW/view?usp=share_link)
+    - Lecture 5: [Steps for Supervised Learning](https://drive.google.com/file/d/1HK0SURJz6JveNU2oaotBXr7SITxIADhV/view?usp=share_link)
 
 
 
