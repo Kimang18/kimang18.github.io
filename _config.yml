@@ -16,13 +16,13 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.md", title: "About Me", sidebaricon: user}
-  - {file: "blog.md", title: "ក្រងពុទ្ធិ", sidebaricon: brain}
-  - {file: "teaching.md", title: "Teaching & Talks", sidebaricon: person-chalkboard}
-  - {file: "research.md", title: "Research", sidebaricon: telescope}
+  - {file: "blog.md", title: "ក្រងពុទ្ធិ", icon: book}
+  - {file: "teaching.md", title: "Teaching & Talks", icon: school}
+  - {file: "research.md", title: "Research", icon: pen}
+  - {file: "index.md", title: "About Me", icon: user}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: YouTube, icon: play, url: "https://www.youtube.com/channel/UCHpwDjAtW1AZrexwBgViHmw"}
+  - {title: My YouTube Channel, icon: tv, url: "https://www.youtube.com/channel/UCHpwDjAtW1AZrexwBgViHmw"}
   - {title: Github, icon: github, url: "https://github.com/Kimang18"}
   - {title: Mail, icon: envelope, url: "mailto:kimang.khun@polytechnique.org"}
     #- {title: Subscribe, icon: rss, url: "/feed.xml"}
