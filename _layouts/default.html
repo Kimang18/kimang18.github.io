@@ -39,6 +39,13 @@
   {% include menu.html menu=site.external %}
 </footer>
 {% endif %}
+
+{%- if site.footer -%}
+<footer class="hover">
+  <div>{{ site.description }}</div>
+  {% include menu.html menu=site.footer %}
+</footer>
+{%- endif -%}
 <script type="text/x-mathjax-config">
 MathJax.Hub.Config({
   tex2jax: {
