@@ -1,7 +1,7 @@
 ---
-title: Epidemic Simulation with code given
+title: "Epidemic Simulation with code given"
 layout: post
-amsthm: true
+categories: media
 ---
 
 In this video, I explain my epidemic simulations in Khmer language but you can check out my gitlab which is written in English. The link is given [here](https://gitlab.inria.fr/x-KKhun/epidemic-simulator)

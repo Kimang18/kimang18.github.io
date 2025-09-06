@@ -1,7 +1,7 @@
 ---
-title: ប្រើប្រាស់ Cython ជាមួយ MPI4PY ក្នុង Python
+title: "ប្រើប្រាស់ Cython ជាមួយ MPI4PY ក្នុង Python"
 layout: post
-amsthm: true
+categories: media
 ---
 
 ក្នុងវីដេអូេនះ ខ្ញុំណែនាំអំពី Cython និង mpi4py ដែលពួកវាជួយបង្កើនល្បឿននៃការដំណើរការកូដពិសោធន៍ និងគណនារបស់យើងក្នុងកុំព្យូទ័រ។

@@ -1,7 +1,7 @@
 ---
-title:  សេចក្តីផ្តើមនៃ Multi-Armed Bandit
+title:  "សេចក្តីផ្តើមនៃ Multi-Armed Bandit"
 layout: post
-amsthm: true
+mathjax: true
 ---
 
 &emsp; &emsp; Multi-armed bandit (MAB) គឺជាបញ្ហាគណិតវិទ្យាមួយដែលត្រូវបានសិក្សាយ៉ាងស៊ីជម្រៅ និងប្រើប្រាស់យ៉ាងទូលំទូលាយ។ MAB ត្រូវបានផ្តួចផ្តើមដំបូងក្នុងសហគមន៍អ្នកស្រាវជ្រាវតាំងពីឆ្នាំ១៩៣៣មកម៉្លេះ [[1]](#thompson1933likelihood) ហើយនៅតែបន្តត្រូវបានគេសិក្សារហូតមកដល់សព្វថ្ងៃ [[2]](#simchi2023multi)។ MAB គឺជាគម្រូលេខនៃបញ្ហារស់នៅក្នុងជីវិតយ៉ាងច្រើនដូចជា ការសាកឃ្លីនិក (Clinical Trial [[1]](#thompson1933likelihood)) ប្រព័ន្ធផ្តល់យោបល់ (Recommendation system [[3]](#lattimore2020bandit)) និងការដាក់ផ្សព្វផ្សាយពាណិជ្ជកម្ម (Advert Placement [[3]](#lattimore2020bandit)) ជាដើម។ នេះបញ្ជាក់ថា MAB គឺជាបញ្ហាមួយដ៏សំខាន់ដែលយើងទាំងអស់គ្នាគួរតែយកចិត្តទុកដាក់ស្វែងយល់។
