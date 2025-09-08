@@ -22,7 +22,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "About Me", icon: user}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: My YouTube Channel, icon: tv, url: "https://www.youtube.com/channel/UCHpwDjAtW1AZrexwBgViHmw"}
+  - {title: My YouTube Channel, icon: youtube, url: "https://www.youtube.com/channel/UCHpwDjAtW1AZrexwBgViHmw"}
+  - {title: My Huggingface, icon: rocket, url: "https://huggingface.co/Kimang18"}
   - {title: Github, icon: github, url: "https://github.com/Kimang18"}
   - {title: Mail, icon: envelope, url: "mailto:kimang.khun@polytechnique.org"}
     #- {title: Subscribe, icon: rss, url: "/feed.xml"}
