@@ -7,7 +7,8 @@ categories: media
 # Description
 
 Focusing on programming in python, machine learning, reinforcement learning, artificial intelligence, speech processing, language models. Using Tmux, Neovim, and its plugins to increase productivity in coding.
-You can find my YouTube channel here: [https://www.youtube.com/channel/UCHpwDjAtW1AZrexwBgViHmw](https://www.youtube.com/channel/UCHpwDjAtW1AZrexwBgViHmw)
+
+You can find __my YouTube channel__ here: [https://www.youtube.com/channel/UCHpwDjAtW1AZrexwBgViHmw](https://www.youtube.com/channel/UCHpwDjAtW1AZrexwBgViHmw)
 
 ## What is LoRA-C? PEFT for fine-tuning Computer Vision Models in 2025
 In this video, I explain Low Rank Adaption (LoRA) technique on the famous convolutional layer.
@@ -25,7 +26,6 @@ In this video, I introduce my work with my supervisors about using Posterior Sam
 You can find our paper here: [https://openreview.net/pdf?id=Sh3RF9JowK](https://openreview.net/pdf?id=Sh3RF9JowK)
 
 {% include embed.html url="https://www.youtube.com/embed/Ii2773_g3po" %}
-
 
 ## Epidemic Simulation with code given
 
