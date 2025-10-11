@@ -8,7 +8,12 @@ categories: media
 
 Focusing on programming in python, machine learning, reinforcement learning, artificial intelligence, speech processing, language models. Using Tmux, Neovim, and its plugins to increase productivity in coding.
 
-You can find __my YouTube channel__ here: [https://www.youtube.com/channel/UCHpwDjAtW1AZrexwBgViHmw](https://www.youtube.com/channel/UCHpwDjAtW1AZrexwBgViHmw)
+You can find __my YouTube channel__ here: [https://www.youtube.com/channel/UCHpwDjAtW1AZrexwBgViHmw](https://www.youtube.com/channel/UCHpwDjAtW1AZrexwBgViHmw){:target="_blank"}
+
+## Step By Step Tutorial To Fine-Tune Detr-ResNet50 for object detection with LoRA-C
+In this video, I fine-tune Detr-ResNet50 for object detection using CPPE-5 dataset and LoRA-C technique.
+
+{% include embed.html url="https://www.youtube.com/embed/xmOQQPlTdIQ" %}
 
 ## What is LoRA-C? PEFT for fine-tuning Computer Vision Models in 2025
 In this video, I explain Low Rank Adaption (LoRA) technique on the famous convolutional layer.
@@ -23,13 +28,13 @@ In this video, I explain Low Rank Adaption (LoRA) technique and its implementati
 ## Learning Algorithms for Markovian bandits: Is posterior sampling more scalable than optimism?
 
 In this video, I introduce my work with my supervisors about using Posterior Sampling Reinforcement Learning and Upper Confidence Reinforcement Learning algorithms in Markovian bandit problem.
-You can find our paper here: [https://openreview.net/pdf?id=Sh3RF9JowK](https://openreview.net/pdf?id=Sh3RF9JowK)
+You can find our paper here: [https://openreview.net/pdf?id=Sh3RF9JowK](https://openreview.net/pdf?id=Sh3RF9JowK){:target="_blank"}
 
 {% include embed.html url="https://www.youtube.com/embed/Ii2773_g3po" %}
 
 ## Epidemic Simulation with code given
 
-In this video, I explain my epidemic simulations in Khmer language but you can check out my gitlab which is written in English. The link is given [here](https://gitlab.inria.fr/x-KKhun/epidemic-simulator)
+In this video, I explain my epidemic simulations in Khmer language but you can check out my gitlab which is written in English. The link is given [here](https://gitlab.inria.fr/x-KKhun/epidemic-simulator){:target="_blank"}
 
 {% include embed.html url="https://www.youtube.com/embed/Hx7gzKVCxL8" %}
 
