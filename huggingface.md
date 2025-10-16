@@ -19,3 +19,9 @@ You can find my huggingface repository here: [https://huggingface.co/Kimang18](h
 ## Text-to-speech
 
 {% include embed.html url="https://kimang18-mms-tts-khm-finetuned-female.hf.space" %}
+
+## Image Annotation App
+
+Please click on this link [https://kimang18-image-annotator-object-detection.hf.space](https://kimang18-image-annotator-object-detection.hf.space){:target="_blank"} for proper functionality.
+
+{% include embed.html url="https://kimang18-image-annotator-object-detection.hf.space" %}

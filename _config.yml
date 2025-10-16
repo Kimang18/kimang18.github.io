@@ -24,6 +24,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "About Me", icon: user}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+  - {title: GoogleScholar, icon: google, url: "https://scholar.google.com/citations?user=ee_NM0wAAAAJ&hl=en"}
   - {title: Github, icon: github, url: "https://github.com/Kimang18"}
   - {title: Mail, icon: envelope, url: "mailto:kimang.khun@polytechnique.org"}
     #- {title: Subscribe, icon: rss, url: "/feed.xml"}
