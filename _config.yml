@@ -16,9 +16,9 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "blog.md", title: "ក្រងអេអាយ", icon: book}
-  - {file: "youtube.md", title: YouTube Videos, icon: youtube} #, url: "https://www.youtube.com/channel/UCHpwDjAtW1AZrexwBgViHmw"}
-  - {file: "huggingface.md", title: HuggingFace Spaces, icon: rocket} #, url: "https://huggingface.co/Kimang18"}
+  - {file: "blog.md", title: "ក្រងAI", icon: book}
+  - {file: "youtube.md", title: YT Videos, icon: youtube} #, url: "https://www.youtube.com/channel/UCHpwDjAtW1AZrexwBgViHmw"}
+  - {file: "huggingface.md", title: HF Spaces, icon: rocket} #, url: "https://huggingface.co/Kimang18"}
   - {file: "teaching.md", title: "Teaching & Talks", icon: school}
   - {file: "research.md", title: "Research", icon: pen}
   - {file: "index.md", title: "About Me", icon: user}
