@@ -26,7 +26,7 @@ __09/2015 - 09/2018__ : _Engineer’s Degree in Data Science_, **Ecole Polytechn
 
 # Professional Experiences:
 
-__11/2023 - present__ : _Chief Technology Officer_, __AI Farm Co., Ltd.__, Cambodia
+__11/2023 - 09/2025__ : _Chief Technology Officer_, __AI Farm Co., Ltd.__, Cambodia
 
 __12/2021 - 04/2024__ : _deputy head of Science, Technology, and Innovation Data Management office_, the __Ministry of Industry, Science, Technology, and Innovation of Cambodia__
 
