@@ -10,6 +10,11 @@ Focusing on programming in python, machine learning, reinforcement learning, art
 
 You can find __my YouTube channel__ here: [https://www.youtube.com/channel/UCHpwDjAtW1AZrexwBgViHmw](https://www.youtube.com/channel/UCHpwDjAtW1AZrexwBgViHmw){:target="_blank"}
 
+## What is DoRA? PEFT for fine-tuning LLMs in 2025
+In this video, I explain Weight-Decomposed Low Rank Adaption (DoRA) and its coding in python.
+
+{% include embed.html url="https://www.youtube.com/embed/Ai18H8VPE8g" %}
+
 ## Step By Step Tutorial To Fine-Tune Detr-ResNet50 for object detection with LoRA-C
 In this video, I fine-tune Detr-ResNet50 for object detection using CPPE-5 dataset and LoRA-C technique.
 
