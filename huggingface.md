@@ -12,6 +12,14 @@ Currently, I have __2 spaces__ on Huggingface platform:
 
 You can find my huggingface repository here: [https://huggingface.co/Kimang18](https://huggingface.co/Kimang18){:target="_blank"}
 
+Beside huggingface spaces, I also co-developped with my Ph.D. supervisor, Dr. Nicolas GAST, a `pip package` for computing Whittle index or testing indexability of finite-state Markovian bandit problems.
+The package can be found here: [https://pypi.org/project/markovianbandit-pkg/](https://pypi.org/project/markovianbandit-pkg/){:target="_blank"}.
+
+To install our package, run the following command in your terminal,
+```bash
+pip install markovianbandit-pkg
+```
+
 ## Image Annotation App
 
 Please use this link [https://kimang18-image-annotator-object-detection.hf.space](https://kimang18-image-annotator-object-detection.hf.space){:target="_blank"} for proper functionality.
