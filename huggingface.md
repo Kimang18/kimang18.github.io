@@ -22,7 +22,7 @@ pip install markovianbandit-pkg
 
 ## Image Annotation App
 
-Please use this link [https://kimang18-image-annotator-object-detection.hf.space](https://kimang18-image-annotator-object-detection.hf.space){:target="_blank"} for proper functionality.
+Please use this link [https://krorngai-image-annotator-object-detection.hf.space](https://krorngai-image-annotator-object-detection.hf.space){:target="_blank"} for proper functionality.
 ## Speech-to-text
 
 {% include embed.html url="https://kimang18-mms-1b-finetuned-khm.hf.space" %}
