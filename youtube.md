@@ -10,6 +10,16 @@ Focusing on programming in python, machine learning, reinforcement learning, art
 
 You can find __my YouTube channel__ here: [https://www.youtube.com/channel/UCHpwDjAtW1AZrexwBgViHmw](https://www.youtube.com/channel/UCHpwDjAtW1AZrexwBgViHmw){:target="_blank"}
 
+## Fine-tuning OpenAI Whisper for Speech Transcription with Custom Dataset
+Easy and Quick Fine-tune OpenAI's Whisper to different languages using Python and Colab with GPU.
+
+{% include embed.html url="https://www.youtube.com/embed/T9hqu16jDWA" %}
+
+## Step By Step Tutorial Using DoRA & LoRA-C Combo to Fine-tune Detr-ResNet50 for object detection
+In this video, I combine LoRA-C with DoRA to fine-tune Detr-ResNet50 for object detection task.
+
+{% include embed.html url="https://www.youtube.com/embed/CbP9wIbu7IY" %}
+
 ## What is DoRA? PEFT for fine-tuning LLMs in 2025
 In this video, I explain Weight-Decomposed Low Rank Adaption (DoRA) and its coding in python.
 
