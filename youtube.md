@@ -10,15 +10,23 @@ Focusing on programming in python, machine learning, reinforcement learning, art
 
 You can find __my YouTube channel__ here: [https://www.youtube.com/channel/UCHpwDjAtW1AZrexwBgViHmw](https://www.youtube.com/channel/UCHpwDjAtW1AZrexwBgViHmw){:target="_blank"}
 
+## Fine-tune Facebook wav2vec 2.0 for Speech Recognition, better than OpenAI Whisper?
+Easy and Quick Fine-tune facebook/mms-1b-all, wav2vec 2.0 model, to different languages using Python and Colab with GPU
+
+{% include embed.html url="https://www.youtube.com/embed/5kfLb1eJbiI?si=LUSAkgNTpeS2eQfO" %}
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kimang18/DoRA-LoRAC-finetune-mms-1b-all/blob/main/Khmer_Fine_Tune_MMS_on_Common_Voice.ipynb){:target="_blank"}
+
 ## Fine-tuning OpenAI Whisper for Speech Transcription with Custom Dataset
 Easy and Quick Fine-tune OpenAI's Whisper to different languages using Python and Colab with GPU.
 
 {% include embed.html url="https://www.youtube.com/embed/T9hqu16jDWA" %}
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kimang18/DoRA-LoRAC-fine-tune-whisper-small/blob/main/Khmer_small_fine_tune_whisper.ipynb){:target="_blank"}
 
 ## Step By Step Tutorial Using DoRA & LoRA-C Combo to Fine-tune Detr-ResNet50 for object detection
 In this video, I combine LoRA-C with DoRA to fine-tune Detr-ResNet50 for object detection task.
 
 {% include embed.html url="https://www.youtube.com/embed/CbP9wIbu7IY" %}
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kimang18/DoRA-LoRAC-for-object-detection/blob/main/DoRA-LoRAC_object_detection.ipynb){:target="_blank"}
 
 ## What is DoRA? PEFT for fine-tuning LLMs in 2025
 In this video, I explain Weight-Decomposed Low Rank Adaption (DoRA) and its coding in python.
