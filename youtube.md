@@ -10,10 +10,25 @@ Focusing on programming in python, machine learning, reinforcement learning, art
 
 You can find __my YouTube channel__ here: [https://www.youtube.com/channel/UCHpwDjAtW1AZrexwBgViHmw](https://www.youtube.com/channel/UCHpwDjAtW1AZrexwBgViHmw){:target="_blank"}
 
+## RAG App (NO API key needed): Easy and quick AI Chat for Your Docs on Mac (Apple Silicon) - Part 1
+Learn how to build a retrieval augmented generation (RAG) app with local llm (tailored to M-chip of Apple).
+
+{% include embed.html url="https://www.youtube.com/embed/tlgjYMtTyHI" %}
+
+## RAG Explained and Coded for Beginners
+Learn how "retrieval augmented generation" (RAG) works with Langchain and MLX in Python.
+
+{% include embed.html url="https://www.youtube.com/embed/s3A0qf6bHQE" %}
+
+## YOLO Demo: Uncovering LoRA's Inefficient GPU Usage (for Computer Vision models)
+I expose the truth about LoRA for computer vision models via a practical demo with a YOLOv5.
+
+{% include embed.html url="https://www.youtube.com/embed/j7CBSR8i_mQ" %}
+
 ## Fine-tune Facebook wav2vec 2.0 for Speech Recognition, better than OpenAI Whisper?
 Easy and Quick Fine-tune facebook/mms-1b-all, wav2vec 2.0 model, to different languages using Python and Colab with GPU
 
-{% include embed.html url="https://www.youtube.com/embed/5kfLb1eJbiI?si=LUSAkgNTpeS2eQfO" %}
+{% include embed.html url="https://www.youtube.com/embed/5kfLb1eJbiI" %}
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kimang18/DoRA-LoRAC-finetune-mms-1b-all/blob/main/Khmer_Fine_Tune_MMS_on_Common_Voice.ipynb){:target="_blank"}
 
 ## Fine-tuning OpenAI Whisper for Speech Transcription with Custom Dataset
