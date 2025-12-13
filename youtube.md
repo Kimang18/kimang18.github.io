@@ -10,6 +10,17 @@ Focusing on programming in python, machine learning, reinforcement learning, art
 
 You can find __my YouTube channel__ here: [https://www.youtube.com/channel/UCHpwDjAtW1AZrexwBgViHmw](https://www.youtube.com/channel/UCHpwDjAtW1AZrexwBgViHmw){:target="_blank"}
 
+
+## Local RAG with Llamafile (NO High End GPUs Required)
+Learn how to implement the pipeline of Retrieval Augmented Generation with Llamafile from scratch.
+
+{% include embed.html url="https://www.youtube.com/embed/bmJdvsXalHo" %}
+
+## Easy and quick AI Chat for PDF, MD, or CSV on Mac (Apple Silicon) - Part 2
+Learn how to extend retrieval augmented generation (RAG) app for PDF, Mardown, or CSV document using local LLM (tailored to M-chip of Apple).
+
+{% include embed.html url="https://www.youtube.com/embed/CsquPNcnclQ" %}
+
 ## RAG App (NO API key needed): Easy and quick AI Chat for Your Docs on Mac (Apple Silicon) - Part 1
 Learn how to build a retrieval augmented generation (RAG) app with local llm (tailored to M-chip of Apple).
 
