@@ -10,6 +10,29 @@ Focusing on programming in python, machine learning, reinforcement learning, art
 
 You can find __my YouTube channel__ here: [https://www.youtube.com/channel/UCHpwDjAtW1AZrexwBgViHmw](https://www.youtube.com/channel/UCHpwDjAtW1AZrexwBgViHmw){:target="_blank"}
 
+# Support My Work
+
+While this work comes truly from the heart, each video represents a significant investment of time -- from deep-dive research and code preparation to the final narrative and editing process.
+I am incredibly passionate about sharing this knowledge, but maintaining this level of quality is a major undertaking.
+If you find these videos helpful and are in a position to do so, please consider supporting my work with a donation.
+You can click <a href="https://pay.ababank.com/oRF8/8yp6hy53">here</a> to donate or scan the QR code below.
+Your generosity acts as a huge encouragement and helps ensure that I can continue creating in-depth, valuable content for you.
+
+<figure>
+  <div style="text-align: center;"><a name='slotMachine' ><img src="https://kimang18.github.io/assets/fig/aba_qr_kimang.JPG" width="500" /></a></div>
+  <figcaption> Using Cambodian bank account, you can donate by scanning my ABA QR code here. (or click <a href="https://pay.ababank.com/oRF8/8yp6hy53">here</a>. Make sure that receiver's name is 'Khun Kim Ang'.) </figcaption>
+</figure>
+
+## Build Gradio App in colab to Chat with Your DataFrame using Llamafile and PandasAI - 100% Free
+
+In this video, you will learn to install python 3.11 in colab and develop Gradio App for Data Analysis by integrating Llamafile with PandasAI Agent.
+
+{% include embed.html url="https://www.youtube.com/embed/TBF72xM6Oss" %}
+
+## Build Streamlit App to Chat with your DataFrame using PandasAI & MLX - Free and Local
+This video shows the development of Streamlit Application for Data Analysis using PandasAI Agent. 
+
+{% include embed.html url="https://www.youtube.com/embed/Dgs8og_mpdw" %}
 
 ## Local RAG with Llamafile (NO High End GPUs Required)
 Learn how to implement the pipeline of Retrieval Augmented Generation with Llamafile from scratch.
