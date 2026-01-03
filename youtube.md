@@ -23,6 +23,12 @@ Your generosity acts as a huge encouragement and helps ensure that I can continu
   <figcaption> Using Cambodian bank account, you can donate by scanning my ABA QR code here. (or click <a href="https://pay.ababank.com/oRF8/8yp6hy53">here</a>. Make sure that receiver's name is 'Khun Kim Ang'.) </figcaption>
 </figure>
 
+## Train Your Own Small Language Model for Text Generation from Scratch, code provided
+
+In this video, you will learn about tokenizer and how to train small language model for text generation using tror-yong-lm pypi package in python.
+
+{% include embed.html url="https://www.youtube.com/embed/e7wEAVeIo0Y" %}
+
 ## Build Gradio App in colab to Chat with Your DataFrame using Llamafile and PandasAI - 100% Free
 
 In this video, you will learn to install python 3.11 in colab and develop Gradio App for Data Analysis by integrating Llamafile with PandasAI Agent.
