@@ -11,10 +11,10 @@ title: "Home"
 
 I am interested in optimization, control of stochastic dynamic system (Reinforcement Learning, Markov Decision Process...), computer vision, machine learning, and deep learning.
 
-Currently, I am the Chief Technology Officer of [AI Farm Robotics Company](https://aifarm.dev).
+<!-- Currently, I am the Chief Technology Officer of [AI Farm Robotics Company](https://aifarm.dev). -->
 <!--official at the __Ministry of Industry, Science, Technology, and Innovation of Cambodia__. -->
 My Ph.D. was supervised by [Nicolas Gast](https://polaris.imag.fr/nicolas.gast/) and [Bruno Gaujal](https://team.inria.fr/polaris/members/bruno-gaujal/) at __University of Grenoble Alpes of France__.
-The manuscript of my Ph.D. can be found [here](https://kimang18.github.io/assets/Kimang_thesis.pdf)
+The manuscript of my Ph.D. is submitted to [HAL theses](https://theses.hal.science/tel-04190346v1){:target="_blank"} of France and the lastest version can be downloaded [here](https://kimang18.github.io/assets/Kimang_thesis.pdf){:target="_blank"}.
 
 # Education:
 
@@ -26,7 +26,7 @@ __09/2015 - 09/2018__ : _Engineer’s Degree in Data Science_, **Ecole Polytechn
 
 # Professional Experiences:
 
-__11/2023 - 09/2025__ : _Chief Technology Officer_, __AI Farm Co., Ltd.__, Cambodia
+__11/2023 - 08/2025__ : _Chief Technology Officer_, __AI Farm Co., Ltd.__, Cambodia
 
 __12/2021 - 04/2024__ : _deputy head of Science, Technology, and Innovation Data Management office_, the __Ministry of Industry, Science, Technology, and Innovation of Cambodia__
 
