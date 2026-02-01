@@ -23,6 +23,20 @@ Your generosity acts as a huge encouragement and helps ensure that I can continu
   <figcaption> Using Cambodian bank account, you can donate by scanning my ABA QR code here. (or click <a href="https://pay.ababank.com/oRF8/8yp6hy53">here</a>. Make sure that receiver's name is 'Khun Kim Ang'.) </figcaption>
 </figure>
 
+## Coding Transformer Decoder Block from Scratch
+
+In this video, the attention mechanism in Transformers is explained and implemented in PyTorch. The implemented decoder block is tested in GPT2-like LLM for correctness.
+
+{% include embed.html url="https://www.youtube.com/embed/l5tiMgIDIww" %}
+
+
+## Build GPT2-like Language Model from Scratch - Code provided
+
+In this video, we dive deep into fine-tuning TinyLlama to bridge the gap between simple text generation and complex tool use. We don't just teach it to call tools; we teach it to reason before acting.
+
+{% include embed.html url="https://www.youtube.com/embed/Dcuosx0Y1JE" %}
+
+
 ## Make TinyLlama Smarter: Reasoning + Tool Calling Fine-Tune
 
 In this video, we dive deep into fine-tuning TinyLlama to bridge the gap between simple text generation and complex tool use. We don't just teach it to call tools; we teach it to reason before acting.
