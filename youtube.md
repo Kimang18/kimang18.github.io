@@ -30,6 +30,7 @@ __Please use this badge to open the notebook__: [![Open in Colab](https://colab.
 
 {% include embed.html url="https://www.youtube.com/embed/PzONCgJbY1k" %}
 
+---
 
 ## Coding Transformer Decoder Block from Scratch
 
@@ -39,6 +40,7 @@ __Please use this badge to open the notebook__: [![Open in Colab](https://colab.
 
 {% include embed.html url="https://www.youtube.com/embed/l5tiMgIDIww" %}
 
+---
 
 ## Build GPT2-like Language Model from Scratch - Code provided
 
@@ -48,6 +50,7 @@ __Please use this badge to open the notebook__: [![Open in Colab](https://colab.
 
 {% include embed.html url="https://www.youtube.com/embed/Dcuosx0Y1JE" %}
 
+---
 
 ## Make TinyLlama Smarter: Reasoning + Tool Calling Fine-Tune
 
@@ -57,6 +60,7 @@ __Please use this badge to open the notebook__: [![Open in Colab](https://colab.
 
 {% include embed.html url="https://www.youtube.com/embed/ccoLLY2Je3E" %}
 
+---
 
 ## Train Your Own Speech Transcription Model from Scratch, code provided
 
@@ -66,6 +70,7 @@ __Please use this badge to open the notebook__: [![Open in Colab](https://colab.
 
 {% include embed.html url="https://www.youtube.com/embed/XJaqGjhiGxw" %}
 
+---
 
 ## Train Your Own Small Language Model for Text Generation from Scratch, code provided
 
@@ -75,6 +80,7 @@ __Please use this badge to open the notebook__: [![Open in Colab](https://colab.
 
 {% include embed.html url="https://www.youtube.com/embed/e7wEAVeIo0Y" %}
 
+---
 
 ## Build Gradio App in colab to Chat with Your DataFrame using Llamafile and PandasAI - 100% Free
 
@@ -84,6 +90,7 @@ __Please use this badge to open the notebook__: [![Open in Colab](https://colab.
 
 {% include embed.html url="https://www.youtube.com/embed/TBF72xM6Oss" %}
 
+---
 
 ## Build Streamlit App to Chat with your DataFrame using PandasAI & MLX - Free and Local
 This video shows the development of Streamlit Application for Data Analysis using PandasAI Agent. 
@@ -98,6 +105,7 @@ __Please use this badge to open the notebook__: [![Open in Colab](https://colab.
 
 {% include embed.html url="https://www.youtube.com/embed/bmJdvsXalHo" %}
 
+---
 
 ## Easy and quick AI Chat for PDF, MD, or CSV on Mac (Apple Silicon) - Part 2
 Learn how to extend retrieval augmented generation (RAG) app for PDF, Mardown, or CSV document using local LLM (tailored to M-chip of Apple).
