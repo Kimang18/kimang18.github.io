@@ -23,6 +23,15 @@ Your generosity acts as a huge encouragement and helps ensure that I can continu
   <figcaption> Using Cambodian bank account, you can donate by scanning my ABA QR code here. (or click <a href="https://pay.ababank.com/oRF8/8yp6hy53">here</a>. Make sure that receiver's name is 'Khun Kim Ang'.) </figcaption>
 </figure>
 
+## Train Your Own Small OCR Model from Scratch | with PARSeq's Encoder
+In this video, I show how to train an OCR model from scratch on my language dataset (Khmer).
+
+__Please use this badge to open the notebook__: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kimang18/rag-demo-with-mlx/blob/main/OCRfromScratchWithPARSeqEncoder.ipynb)
+
+{% include embed.html url="https://www.youtube.com/embed/3UwXlP540E8?si=Ak1wf1SHavjb0bBr" %}
+
+<hr>
+
 ## Vision Transformer Explained and Coded
 In this video, you will learn about Vision Transformer and implement it for image classification using MNIST datasets.
 
