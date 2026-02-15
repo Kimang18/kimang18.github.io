@@ -17,6 +17,7 @@ minimal: true             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "blog.md", title: "ក្រង AI", icon: book}
+  - {title: "KrorngAI(new)", icon: book, url: "https://kimang18.github.io/krorngai-blog/"}
   - {file: "youtube.md", title: YT Videos, icon: youtube} #, url: "https://www.youtube.com/channel/UCHpwDjAtW1AZrexwBgViHmw"}
   - {file: "huggingface.md", title: HF Spaces, icon: rocket} #, url: "https://huggingface.co/Kimang18"}
   - {file: "teaching.md", title: "Teaching & Talks", icon: school}
