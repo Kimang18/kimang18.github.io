@@ -209,6 +209,6 @@ In this video, I explain my epidemic simulations in Khmer language but you can c
 
 ## Use command line to get Covid-19 data
 
-រសិនបើអ្នកចង់រៀនអំពីTerminal សូមសាកល្បងមើលកម្រងវីដេអូនេះ  https://youtube.com/playlist?list=PLR9cB9dCWlxfLwaLnmz8c34XMxxT7T11A&si=07cHjH8tY7ipNsoE .
+ប្រសិនបើអ្នកចង់រៀនអំពីTerminal សូមសាកល្បងមើលកម្រងវីដេអូនេះ  [playlist](https://youtube.com/playlist?list=PLR9cB9dCWlxfLwaLnmz8c34XMxxT7T11A&si=07cHjH8tY7ipNsoE).
 
 {% include embed.html url="https://www.youtube.com/embed/co78_iJwD94" %}
