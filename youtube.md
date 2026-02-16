@@ -197,12 +197,18 @@ In this video, I explain my epidemic simulations in Khmer language but you can c
 
 ## Cython and MPI4PY
 
+ក្នុងវីដេអូេនះ ខ្ញុំណែនាំអំពី Cython និង mpi4py ដែលពួកវាជួយបង្កើនល្បឿននៃការដំណើរការកូដពិសោធន៍ និងគណនារបស់យើងក្នុងកុំព្យូទ័រ។
+
 {% include embed.html url="https://www.youtube.com/embed/SW9z68_DoKU" %}
 
 ## Put Covid-19 data in the Prompt Bar of iTerm2
 
+បង្ហាញអំពីរបៀបដាក់ទិន្នន័យរបស់អ្នកកើតជម្ងឺកូវីដ១៩ចូលក្នុងPrompt Bar របស់iTerm2ដោយការសរសេរកូដshell។ ខ្ញុំព្យាយាមនិយាយខ្មែរអោយបានច្រើន តែនៅតែរបូតមាត់មួយពាក្យៗ។ សូមអភ័យទោស។
+
 {% include embed.html url="https://www.youtube.com/embed/CGIwGSpGBQI" %}
 
 ## Use command line to get Covid-19 data
+
+រសិនបើអ្នកចង់រៀនអំពីTerminal សូមសាកល្បងមើលកម្រងវីដេអូនេះ  https://youtube.com/playlist?list=PLR9cB9dCWlxfLwaLnmz8c34XMxxT7T11A&si=07cHjH8tY7ipNsoE .
 
 {% include embed.html url="https://www.youtube.com/embed/co78_iJwD94" %}
