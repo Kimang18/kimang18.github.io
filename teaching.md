@@ -18,7 +18,7 @@ title: "Teaching & Talks"
 
 - __June 2025__: The 14th Scientific Day - Leveraging R&D for Innovation and Growth (ITC, Phnom Penh), The Next-Gen Robotic: How AI is transforming Human-Machine Interaction
 - __November 2024__: High-Level Dialogue on ASEAN-Italy Economic Relations (Dusit Thani Hotel, Manila), The Emergence of AI-powered Humanoids
-- __November 2024__: Cambodia Youth Internet Governance Forum 2024 (CKCC, Phnom Penh), [Artificial Intelligence, Yesterday, Today, and Tomorrow](https://kimang18.github.io/assets/talk/talk-gentle_intro_MAB.pdf)
+- __November 2024__: Cambodia Youth Internet Governance Forum 2024 (CKCC, Phnom Penh), [Artificial Intelligence, Yesterday, Today, and Tomorrow](https://kimang18.github.io/assets/talk/KimangKHUN_AI_Topic.pdf)
 - __July 2024__: Beyond Buzzwords, Leveraging AI/ML for Tangible Business Outcomes (Raintree, Phnom Penh), Panel Discussion
 - __July 2024__: Mekong Tech Festival 2024 (The Olympia Mall, Phnom Penh), Panel Discussion
 - __August 2023__: Institute of Digital Research and Innovation Monthly Seminar (Phnom Penh), [Gentle Introduction to Multi-Armed Bandit Problem](https://kimang18.github.io/assets/talk/talk-gentle_intro_MAB.pdf)
