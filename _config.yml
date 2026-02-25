@@ -7,22 +7,20 @@ excerpt_separator: "<!--end_excerpt-->"
 date_format: "%B %d, %Y"
 
 # Layout
-
 show_excerpts: true       # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
 show_sidebar: true        # show a sidebar instead of the usual header
 minimal: true             # use a dark header
 
 # Menu
-
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "blog.md", title: "ក្រង AI", icon: book}
-  - {title: "KrorngAI(new)", icon: book, url: "https://kimang18.github.io/krorngai-blog/"}
+  - {title: "ក្រង AI", icon: book, url: "https://kimang18.github.io/krorngai-blog/"}
   - {file: "youtube.md", title: YT Videos, icon: youtube} #, url: "https://www.youtube.com/channel/UCHpwDjAtW1AZrexwBgViHmw"}
   - {file: "huggingface.md", title: HF Spaces, icon: rocket} #, url: "https://huggingface.co/Kimang18"}
   - {file: "teaching.md", title: "Teaching & Talks", icon: school}
   - {file: "research.md", title: "Research", icon: pen}
   - {file: "index.md", title: "About Me", icon: user}
+  - {file: "blog.md", title: "ក្រង AI (archived)", icon: book}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: GoogleScholar, icon: google, url: "https://scholar.google.com/citations?user=ee_NM0wAAAAJ&hl=en"}
