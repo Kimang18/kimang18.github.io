@@ -23,6 +23,16 @@ Your generosity acts as a huge encouragement and helps ensure that I can continu
   <figcaption> Using Cambodian bank account, you can donate by scanning my ABA QR code here. (or click <a href="https://pay.ababank.com/oRF8/8yp6hy53">here</a>. Make sure that receiver's name is 'Khun Kim Ang'.) </figcaption>
 </figure>
 
+## TrorYongOCR: Meet Your Tiny OCR Model
+In this video, I fine-tune pre-trained TrorYongOCR, a Tiny OCR model by KrorngAI, on synthetic datasets and share my thoughts on the result.
+
+__Please use this badge to open the notebook__: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kimang18/SourceCode-KrorngAI-YT/blob/main/FinetuneTrorYongOCR.ipynb)
+
+{% include embed.html url="https://www.youtube.com/embed/3W8P0mByFBY" %}
+
+<hr>
+
+
 ## Train Your Own Small OCR Model from Scratch | with PARSeq's Encoder
 In this video, I show how to train an OCR model from scratch on my language dataset (Khmer).
 
