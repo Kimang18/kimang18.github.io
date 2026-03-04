@@ -23,6 +23,16 @@ Your generosity acts as a huge encouragement and helps ensure that I can continu
   <figcaption> Using Cambodian bank account, you can donate by scanning my ABA QR code here. (or click <a href="https://pay.ababank.com/oRF8/8yp6hy53">here</a>. Make sure that receiver's name is 'Khun Kim Ang'.) </figcaption>
 </figure>
 
+## So, what is an LLM anyway? | Intro to LLM and a quick QLoRA PEFT walkthrough
+In this video, I tried to describe an LLM, the process to obtain one, and a quick tour of QLoRA PEFT
+
+Slides of my presentation can be found here: [https://kimang18.github.io/krorngai-blog/WhatIsAnLLMAnyway/](https://kimang18.github.io/krorngai-blog/WhatIsAnLLMAnyway/)
+
+{% include embed.html url="https://www.youtube.com/embed/airKlExbX8k" %}
+
+<hr>
+
+
 ## TrorYongOCR: Meet Your Tiny OCR Model
 In this video, I fine-tune pre-trained TrorYongOCR, a Tiny OCR model by KrorngAI, on synthetic datasets and share my thoughts on the result.
 
