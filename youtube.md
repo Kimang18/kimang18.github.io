@@ -23,6 +23,26 @@ Your generosity acts as a huge encouragement and helps ensure that I can continu
   <figcaption> Using Cambodian bank account, you can donate by scanning my ABA QR code here. (or click <a href="https://pay.ababank.com/oRF8/8yp6hy53">here</a>. Make sure that receiver's name is 'Khun Kim Ang'.) </figcaption>
 </figure>
 
+## MomentUm Orthogonalized by Newton-schulz (muon) | Train faster and better with less GPUs
+This video is a gentle introduction to MUON optimizer, its concept, design, and algorithm.
+
+__My slides__: https://kimang18.github.io/krorngai-blog/Muon/
+
+{% include embed.html url="https://www.youtube.com/embed/HbrrPTLusJg" %}
+
+<hr>
+
+
+## Take full advantage of your GPUs with Lightning-AI and Hydra | Demo on Colab
+Learn to use PyTorch Lightning and Hydra to take the most advantage of your computing resources to train your AI model.
+
+__Please use this badge to open the notebook__: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kimang18/rag-demo-with-mlx/blob/main/LightningHydraTrorYongOCR_Train.ipynb)
+
+{% include embed.html url="https://www.youtube.com/embed/KPi3akzulwM" %}
+
+<hr>
+
+
 ## So, what is an LLM anyway? | Intro to LLM and a quick QLoRA PEFT walkthrough
 In this video, I tried to describe an LLM, the process to obtain one, and a quick tour of QLoRA PEFT
 
