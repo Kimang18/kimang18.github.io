@@ -23,6 +23,7 @@ Your generosity acts as a huge encouragement and helps ensure that I can continu
   <figcaption> Using Cambodian bank account, you can donate by scanning my ABA QR code here. (or click <a href="https://pay.ababank.com/oRF8/8yp6hy53">here</a>. Make sure that receiver's name is 'Khun Kim Ang'.) </figcaption>
 </figure>
 
+<!--
 ## Coding Muon + AdamW Hybrid Optimizer for Small Language Model
 
 {% include embed.html url="https://www.youtube.com/embed/vatN2hZf7R8" %}
@@ -30,6 +31,33 @@ Your generosity acts as a huge encouragement and helps ensure that I can continu
 Let's code a hybrid optimizer based on Muon and AdamW in PyTorch and use it to train a SLM.
 
 __Please use this badge to open the notebook__: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kimang18/rag-demo-with-mlx/blob/main/MuonAdamTrorYong_Small_Language_Model_from_Scratch.ipynb)
+
+<hr>
+-->
+
+## OpenCode: Use AI Coding Agent for Free
+
+{% include embed.html url="https://www.youtube.com/embed/bd369iVocW4" %}
+
+OpenCode is a community-driven AI coding Agent with free built-in LLMs to power your AI agents.
+
+<hr>
+
+
+## ពន្យល់ការប្តូរ ពាក្យ ជា លេខ និង លេខ ជា ពាក្យ ក្នុងម៉ូដែលភាសា - LLM Embedding & Sampling Explained
+
+{% include embed.html url="https://www.youtube.com/embed/Z7KkuGLUUKc" %}
+
+ផ្តោតចំណាប់អារម្មណ៍លើប្រមាណវិធីអនុវត្តលើពាក្យដើម្បីបង្កើតជា embedding សម្រាប់ម៉ូដែលភាសា និង ប្រមាណវិធីអនុវត្តលើឡូជីត (logit) នៃម៉ូដែលភាសា ដើម្បីទាញរកពាក្យបញ្ចេញដោយម៉ូដលភាសា។
+
+<hr>
+
+
+## ពន្យល់ពាក្យពេញនិយមនៅក្នុងការស្រាវជ្រាវអេអាយ - for Cambodian AI/ML/DS students
+
+{% include embed.html url="https://www.youtube.com/embed/yQNRX35qD5w" %}
+
+ពន្យល់ពាក្យបច្ចេកទេសមួយចំនួនដែលបង្កការភ័នច្រឡំសម្រាប់និស្សិត និងវិស្វករអេអាយ។
 
 <hr>
 
