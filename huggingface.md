@@ -20,6 +20,10 @@ To install our package, run the following command in your terminal,
 pip install markovianbandit-pkg
 ```
 
+# Speech-to-text with TrorYongASR
+
+{% include embed.html url="https://krorngai-troryongasr-demo.hf.space" %}
+
 ## Image Annotation App
 
 Please use this link [https://krorngai-image-annotator-object-detection.hf.space](https://krorngai-image-annotator-object-detection.hf.space){:target="_blank"} for proper functionality.
