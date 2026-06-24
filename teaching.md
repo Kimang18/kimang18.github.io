@@ -16,6 +16,7 @@ title: "Teaching & Talks"
 
 # Talks
 
+- __February 2026__: LBE project - Large Language Models workshop (ITC, Phnom Penh), [So, what is an LLM anyway?](https://kimang18.github.io/krorngai-blog/WhatIsAnLLMAnyway/)
 - __June 2025__: The 14th Scientific Day - Leveraging R&D for Innovation and Growth (ITC, Phnom Penh), The Next-Gen Robotic: How AI is transforming Human-Machine Interaction
 - __November 2024__: High-Level Dialogue on ASEAN-Italy Economic Relations (Dusit Thani Hotel, Manila), The Emergence of AI-powered Humanoids
 - __November 2024__: Cambodia Youth Internet Governance Forum 2024 (CKCC, Phnom Penh), [Artificial Intelligence, Yesterday, Today, and Tomorrow](https://kimang18.github.io/assets/talk/KimangKHUN_AI_Topic.pdf)
