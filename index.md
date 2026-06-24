@@ -47,19 +47,19 @@ __TrorYongOCR__
 
 Design transformer-based deep learning model for Optical Character Recognition task.
 
-Pre-trained weights: https://huggingface.co/KrorngAI/TrorYongOCR
+Pre-trained weights: [https://huggingface.co/KrorngAI/TrorYongOCR](https://huggingface.co/KrorngAI/TrorYongOCR)
 
-Blog Post: https://kimang18.github.io/krorngai-blog/TrorYongOCR/
+Blog Post: [https://kimang18.github.io/krorngai-blog/TrorYongOCR/](https://kimang18.github.io/krorngai-blog/TrorYongOCR/)
 
 __TrorYongASR__
 
 Design transformer-based deep learning model for Automatic Speech Recognition task.
 
-Blog Post: https://kimang18.github.io/krorngai-blog/TrorYongASR/
+Blog Post: [https://kimang18.github.io/krorngai-blog/TrorYongASR/](https://kimang18.github.io/krorngai-blog/TrorYongASR/)
 
-Pre-trained weights tiny: https://huggingface.co/KrorngAI/TrorYongASR-tiny
+Pre-trained weights tiny: [https://huggingface.co/KrorngAI/TrorYongASR-tiny](https://huggingface.co/KrorngAI/TrorYongASR-tiny)
 
-Pre-trained weights small: https://huggingface.co/KrorngAI/TrorYongASR-small
+Pre-trained weights small: [https://huggingface.co/KrorngAI/TrorYongASR-small](https://huggingface.co/KrorngAI/TrorYongASR-small)
 
 # Archived Projects:
 
