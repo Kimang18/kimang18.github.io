@@ -9,7 +9,7 @@ title: "Home"
     </figcaption>
 </figure>
 
-I am interested in optimization, control of stochastic dynamic system (Reinforcement Learning, Markov Decision Process...), computer vision, machine learning, and deep learning.
+I hold a deep personal interest in Reinforcement Learning (RL) and Large Language Models (LLMs). During my thesis, I gained a theoretical understanding of RL through my study of multi-armed bandit problems, progressing from fundamental to advanced configurations. Building on this foundation, my previous role allows me to expand my expertise into other areas of Artificial Intelligence such as Computer Vision, Speech Processing, and LLMs. I am an active contributor to the open-source community, currently developing and administering four PyPI packages, in particular, tror-yong-asr for speech recognition task and tror-yong-ocr for scene text recognition task. In addition, I manage a YouTube channel, KrorngAI, sharing educational contents related to AI.
 
 <!-- Currently, I am the Chief Technology Officer of [AI Farm Robotics Company](https://aifarm.dev). -->
 <!--official at the __Ministry of Industry, Science, Technology, and Innovation of Cambodia__. -->
@@ -20,28 +20,48 @@ The manuscript of my Ph.D. is submitted to [HAL theses](https://theses.hal.scien
 
 __10/2019 - 03/2023__ : _Ph.D. in Mathematics and Computer Science_, __University of Grenoble Alpes__, France
 
-__10/2018 - 09/2019__ : _Master’s Degree in Artificial Intelligence and Advanced Visual Computing_, __Ecole Polytechnique__, France
+__10/2018 - 09/2019__ : _Master of Science and Technology degree in Artificial Intelligence and Advanced Visual Computing_, __Ecole Polytechnique__, France
 
-__09/2015 - 09/2018__ : _Engineer’s Degree in Data Science_, **Ecole Polytechnique**, France
+__09/2015 - 09/2018__ : _Engineering degree in Data Science_, **Ecole Polytechnique**, France
 
-# Professional Experiences:
+# Employment History:
 
 __11/2023 - 08/2025__ : _Chief Technology Officer_, __AI Farm Co., Ltd.__, Cambodia
 
-__12/2021 - 04/2024__ : _deputy head of Science, Technology, and Innovation Data Management office_, the __Ministry of Industry, Science, Technology, and Innovation of Cambodia__
+__12/2021 - 11/2023__ : _Government Official_, __Ministry of Industry, Science, Technology, and Innovation of Cambodia__
 
-__01/2020 - 06/2020__ and 01/2021 - 06/2021 : Teaching assistant of module INF204 in __DLST of University of Grenoble Alpes__, France
+__01/2020 - 06/2020 and 01/2021 - 06/2021__ : Teaching assistant of module INF204 in __DLST of University of Grenoble Alpes__, France
 
 __04/2019 - 09/2019__ : Research Intern in Polaris team of __Inria Grenoble Rhône Alpes__, Grenoble, France
-Investigating the use of Reinforcement Learning for Markovian bandits when the structure of each bandit is unknown.
+<!-- Investigating the use of Reinforcement Learning for Markovian bandits when the structure of each bandit is unknown. -->
 
 __03/2018 - 08/2018__ : Research Intern, __Réseau de Transport d’Electricité__, Paris, France
-Working in Tau team of Inria Saclay, investigating the use of Reinforcement Learning in controlling the high voltage network.
+<!-- Working in Tau team of Inria Saclay, investigating the use of Reinforcement Learning in controlling the high voltage network. -->
 
 __06/2017 - 08/2017__ : Engineer Intern, __Ontruck__, Madrid, Spain
-Implementing existing algorithms in the literature for Vehicle Routing Problem with Time table Pick up and Drop off.
+<!-- Implementing existing algorithms in the literature for Vehicle Routing Problem with Time table Pick up and Drop off. -->
 
-# Projects:
+# Current Projects:
+
+__TrorYongOCR__
+
+Design transformer-based deep learning model for Optical Character Recognition task.
+
+Pre-trained weights: https://huggingface.co/KrorngAI/TrorYongOCR
+
+Blog Post: https://kimang18.github.io/krorngai-blog/TrorYongOCR/
+
+__TrorYongASR__
+
+Design transformer-based deep learning model for Automatic Speech Recognition task.
+
+Blog Post: https://kimang18.github.io/krorngai-blog/TrorYongASR/
+
+Pre-trained weights tiny: https://huggingface.co/KrorngAI/TrorYongASR-tiny
+
+Pre-trained weights small: https://huggingface.co/KrorngAI/TrorYongASR-small
+
+# Archived Projects:
 
 __Face Recognition System__
 
@@ -79,3 +99,4 @@ __Robotic competition__
 working in group of 12 students, building a robot achieving different goals during the competition. Programming in C.
 
 
+<sup>last update 24/06/2026</sup>
