@@ -35,6 +35,43 @@ __Please use this badge to open the notebook__: [![Open in Colab](https://colab.
 <hr>
 -->
 
+
+## Make Your Coding Agent Efficient: Say Nothing. Write One Line that Works
+
+{% include embed.html url="https://www.youtube.com/embed/luI5_P7gJ6s" %}
+
+In this video, you learn about AI Agent's skill called 'Ponytail': how to install and load it.
+
+<hr>
+
+
+## LLM's Hallucination and Inconsistency Simply Explained
+
+{% include embed.html url="https://www.youtube.com/embed/sAm28ppBrEE" %}
+
+In this video, you will learn about LLM's inconsistency and hallucinations and how to prevent them.
+
+<hr>
+
+
+## Introducing TrorYongASR: New Architecture for Automatic Speech Recognition
+
+{% include embed.html url="https://www.youtube.com/embed/i5LIzScSBoU" %}
+
+TrorYongASR is a new model for ASR task. You'll see its concept, architecture, and evaluation here.
+
+<hr>
+
+
+## PiCodingAgent: Minimal but Extensible AI Coding Agent
+
+{% include embed.html url="https://www.youtube.com/embed/d5BdCxdNNp0" %}
+
+In this video, I show how to connect Pi Coding Agent to local llm server hosted via mlx-lm.
+
+<hr>
+
+
 ## OpenCode: Use AI Coding Agent for Free
 
 {% include embed.html url="https://www.youtube.com/embed/bd369iVocW4" %}
