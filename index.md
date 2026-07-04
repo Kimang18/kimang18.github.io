@@ -16,6 +16,7 @@ I hold a deep personal interest in Reinforcement Learning (RL) and Large Languag
 My Ph.D. was supervised by [Nicolas Gast](https://polaris.imag.fr/nicolas.gast/) and [Bruno Gaujal](https://team.inria.fr/polaris/members/bruno-gaujal/) at __University of Grenoble Alpes of France__.
 The manuscript of my Ph.D. is submitted to [HAL theses](https://theses.hal.science/tel-04190346v1){:target="_blank"} of France and the lastest version can be downloaded [here](https://kimang18.github.io/assets/Kimang_thesis.pdf){:target="_blank"}.
 
+<!--
 # Education:
 
 __10/2019 - 03/2023__ : _Ph.D. in Mathematics and Computer Science_, __University of Grenoble Alpes__, France
@@ -33,13 +34,14 @@ __12/2021 - 11/2023__ : _Government Official_, __Ministry of Industry, Science, 
 __01/2020 - 06/2020 and 01/2021 - 06/2021__ : Teaching assistant of module INF204 in __DLST of University of Grenoble Alpes__, France
 
 __04/2019 - 09/2019__ : Research Intern in Polaris team of __Inria Grenoble Rhône Alpes__, Grenoble, France
-<!-- Investigating the use of Reinforcement Learning for Markovian bandits when the structure of each bandit is unknown. -->
+Investigating the use of Reinforcement Learning for Markovian bandits when the structure of each bandit is unknown.
 
 __03/2018 - 08/2018__ : Research Intern, __Réseau de Transport d’Electricité__, Paris, France
-<!-- Working in Tau team of Inria Saclay, investigating the use of Reinforcement Learning in controlling the high voltage network. -->
+Working in Tau team of Inria Saclay, investigating the use of Reinforcement Learning in controlling the high voltage network.
 
 __06/2017 - 08/2017__ : Engineer Intern, __Ontruck__, Madrid, Spain
-<!-- Implementing existing algorithms in the literature for Vehicle Routing Problem with Time table Pick up and Drop off. -->
+Implementing existing algorithms in the literature for Vehicle Routing Problem with Time table Pick up and Drop off.
+-->
 
 # Current Projects:
 
@@ -99,4 +101,4 @@ __Robotic competition__
 working in group of 12 students, building a robot achieving different goals during the competition. Programming in C.
 
 
-<sup>last update 24/06/2026</sup>
+<sup>last update 04/07/2026</sup>
