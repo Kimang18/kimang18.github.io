@@ -45,6 +45,17 @@ Implementing existing algorithms in the literature for Vehicle Routing Problem w
 
 # Current Projects:
 
+__TrorYongASR2__
+
+The next iteration of TrorYongASR1 for Automatic Speech Recognition task.
+
+Blog Post: [https://kimang18.github.io/krorngai-blog/TrorYongASR2/](https://kimang18.github.io/krorngai-blog/TrorYongASR2/)
+
+Pre-trained weights tiny: [https://huggingface.co/KrorngAI/TrorYongASR2-tiny](https://huggingface.co/KrorngAI/TrorYongASR2-tiny)
+
+Pre-trained weights small: [https://huggingface.co/KrorngAI/TrorYongASR2-small](https://huggingface.co/KrorngAI/TrorYongASR2-small)
+
+
 __TrorYongOCR__
 
 Design transformer-based deep learning model for Optical Character Recognition task.
@@ -52,6 +63,8 @@ Design transformer-based deep learning model for Optical Character Recognition t
 Pre-trained weights: [https://huggingface.co/KrorngAI/TrorYongOCR](https://huggingface.co/KrorngAI/TrorYongOCR)
 
 Blog Post: [https://kimang18.github.io/krorngai-blog/TrorYongOCR/](https://kimang18.github.io/krorngai-blog/TrorYongOCR/)
+
+# Archived Projects:
 
 __TrorYongASR__
 
@@ -62,8 +75,6 @@ Blog Post: [https://kimang18.github.io/krorngai-blog/TrorYongASR/](https://kiman
 Pre-trained weights tiny: [https://huggingface.co/KrorngAI/TrorYongASR-tiny](https://huggingface.co/KrorngAI/TrorYongASR-tiny)
 
 Pre-trained weights small: [https://huggingface.co/KrorngAI/TrorYongASR-small](https://huggingface.co/KrorngAI/TrorYongASR-small)
-
-# Archived Projects:
 
 __Face Recognition System__
 
