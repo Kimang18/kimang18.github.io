@@ -55,6 +55,8 @@ Pre-trained weights tiny: [https://huggingface.co/KrorngAI/TrorYongASR2-tiny](ht
 
 Pre-trained weights small: [https://huggingface.co/KrorngAI/TrorYongASR2-small](https://huggingface.co/KrorngAI/TrorYongASR2-small)
 
+{% include embed.html url="https://kimang18-troryongasr2-demo.hf.space" %}
+
 
 __TrorYongOCR__
 
